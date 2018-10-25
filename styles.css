@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    justify-content: center;
+    background-color: #f2f2f2;
+}
+
+button {
+    width: 175px;
+    height: 50px;
+    border-radius: 15px;
+    margin: 10px;
+    background-color: gray;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+canvas {
+    border: 1px solid black;
+    width: 900px;
+    height: 600px;
+}
