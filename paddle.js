@@ -1,0 +1,5 @@
+class paddle {
+    constructor() {
+
+    }
+}
